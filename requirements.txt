@@ -2,3 +2,4 @@ numpy>=1.26
 pandas>=2.0
 matplotlib>=3.8
 streamlit>=1.32
+sympy>=1.12
